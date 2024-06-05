@@ -1,1 +1,1 @@
-{"aab":"0","apk":"https://www.google.com/","apks":"https://band.us/n/a1a203bdm7001"}
+{"aab":"0","official-s":"https://www.google.com/","privacy":"https://band.us/n/a1a203bdm7001"}
